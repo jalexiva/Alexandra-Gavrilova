@@ -24,6 +24,7 @@ sasha0310@inbox.ru
   + [Задача на REST API: Получение карточки заявки на преподавание](https://github.com/jalexiva/Alexandra-Gavrilova/blob/main/GET%20teaching_applications%20%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B8%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BA%D0%B8%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
   + [Задача на REST API: Изменение заявки на преподавание](https://github.com/jalexiva/Alexandra-Gavrilova/blob/main/PATCH%20teaching_applications%20%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BA%D0%B8%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
 + **База данных и SQL**
+  + [ERD](https://dbdiagram.io/d/U-Verse-69da2cbd0f7c9ef2c0d0f676)
   + [БД: Задача на создание таблицы teaching_application](https://github.com/jalexiva/Alexandra-Gavrilova/blob/main/%D0%91%D0%94%20teaching_application%20-%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf) 
 + **Схемы и диаграммы**
   + [UML Sequence: Подача заявки на преподавание](https://github.com/jalexiva/Alexandra-Gavrilova/wiki/UML-%E2%80%90-%D0%9F%D0%BE%D0%B4%D0%B0%D1%87%D0%B0-%D0%B7%D0%B0%D1%8F%D0%B2%D0%BA%D0%B8-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
