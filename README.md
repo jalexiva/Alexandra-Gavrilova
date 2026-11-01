@@ -26,4 +26,4 @@ sasha0310@inbox.ru
   + [БД: Задача на создание таблицы teaching_application](https://github.com/jalexiva/Alexandra-Gavrilova/blob/main/%D0%91%D0%94%20teaching_application%20-%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf) 
 + **Схемы и диаграммы**
   + [UML Sequence: Подача заявки на преподавание](https://github.com/jalexiva/Alexandra-Gavrilova/wiki/UML-%E2%80%90-%D0%9F%D0%BE%D0%B4%D0%B0%D1%87%D0%B0-%D0%B7%D0%B0%D1%8F%D0%B2%D0%BA%D0%B8-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
-  + [UML State](https://github.com/jalexiva/Alexandra-Gavrilova/wiki/UML-State:-%D0%97%D0%B0%D1%8F%D0%B2%D0%BA%D0%B0-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
+  + [UML State: Заявка на преподавание](https://github.com/jalexiva/Alexandra-Gavrilova/wiki/UML-State:-%D0%97%D0%B0%D1%8F%D0%B2%D0%BA%D0%B0-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
